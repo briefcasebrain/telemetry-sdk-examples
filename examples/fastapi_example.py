@@ -29,7 +29,7 @@ try:
     import briefcase_ai_telemetry as bt
 except ImportError:
     print("❌ Briefcase AI Telemetry SDK not found!")
-    print("📋 To install: contact beta@briefcasebrain.com for access")
+    print("📋 To install: contact support@briefcasebrain.com for access")
     print("📦 Install: pip install --index-url https://USERNAME:PASSWORD@pypi.briefcasebrain.com/simple/ briefcase-ai-telemetry")
     exit(1)
 

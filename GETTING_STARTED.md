@@ -6,7 +6,7 @@ This guide helps you quickly integrate Briefcase AI Telemetry into your applicat
 
 **⚠️ Beta Access Required**
 
-1. **Sign Beta Agreement**: Contact [beta@briefcasebrain.com](mailto:beta@briefcasebrain.com)
+1. **Sign Beta Agreement**: Contact [support@briefcasebrain.com](mailto:support@briefcasebrain.com)
 2. **Get Credentials**: Receive API key and PyPI access
 3. **Install SDK**: Access to private repository at `https://pypi.briefcasebrain.com/`
 
@@ -168,9 +168,7 @@ client.track_event(bt.create_event(
 ## 🆘 Need Help?
 
 **Support Channels:**
-- **📧 Beta Support**: [beta-support@briefcasebrain.com](mailto:beta-support@briefcasebrain.com)
-- **🐛 Bug Reports**: [engineering@briefcasebrain.com](mailto:engineering@briefcasebrain.com)
-- **💼 Business**: [business@briefcasebrain.com](mailto:business@briefcasebrain.com)
+- **📧 Support**: [support@briefcasebrain.com](mailto:support@briefcasebrain.com)
 
 **Common Issues:**
 - **Installation fails**: Verify beta credentials and repository access

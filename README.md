@@ -19,7 +19,7 @@ Briefcase AI Telemetry SDK provides enterprise-grade observability for AI applic
 
 **This SDK is currently in private beta.** To access the full SDK:
 
-1. **📄 Sign Beta Agreement**: [Contact us](mailto:beta@briefcasebrain.com) for the Beta Participation Agreement
+1. **📄 Sign Beta Agreement**: [Contact us](mailto:support@briefcasebrain.com) for the Beta Participation Agreement
 2. **🔑 Get API Key**: Receive credentials for private PyPI repository and dashboard access
 3. **📦 Install SDK**: Access our private PyPI repository at `https://pypi.briefcasebrain.com/`
 4. **🚀 Start Building**: Use these examples to integrate with your applications
@@ -73,7 +73,7 @@ Monitor your telemetry data at: **[https://observe.briefcasebrain.io/](https://o
 
 **Ready to join the beta program?**
 
-1. **📧 Email us**: [beta@briefcasebrain.com](mailto:beta@briefcasebrain.com)
+1. **📧 Email us**: [support@briefcasebrain.com](mailto:support@briefcasebrain.com)
 2. **📋 Include**:
    - Organization name and contact details
    - Intended use case description
@@ -82,9 +82,7 @@ Monitor your telemetry data at: **[https://observe.briefcasebrain.io/](https://o
 
 ## 📞 **Support**
 
-- **📧 Beta Support**: [beta-support@briefcasebrain.com](mailto:beta-support@briefcasebrain.com)
-- **🐛 Bug Reports**: [engineering@briefcasebrain.com](mailto:engineering@briefcasebrain.com)
-- **💼 Business Inquiries**: [business@briefcasebrain.com](mailto:business@briefcasebrain.com)
+- **📧 Support**: [support@briefcasebrain.com](mailto:support@briefcasebrain.com)
 
 ## ⚖️ **License**
 
@@ -101,4 +99,4 @@ Licensed under the **Business Source License 1.1**. Commercial licenses availabl
 
 **Start building the future of AI observability!** 🚀
 
-**Questions?** Join our beta community: [beta-support@briefcasebrain.com](mailto:beta-support@briefcasebrain.com)
+**Questions?** Contact us: [support@briefcasebrain.com](mailto:support@briefcasebrain.com)
