@@ -113,31 +113,71 @@ Access your telemetry dashboard at: **[https://observe.briefcasebrain.io/](https
 
 ## 📚 **Comprehensive Examples**
 
-### **🎓 Learning Path**
+### **🎓 Structured Learning Path**
 
-**Beginner:**
-1. **[Basic Usage](examples/basic_usage.py)** - Start here for simple integration
-2. **[FastAPI Integration](examples/fastapi_example.py)** - Web API monitoring
-3. **[Multi-Model Chat](examples/multi_model_chat.py)** - LLM comparison and tracking
+#### **🚀 Level 1: Getting Started (15-30 minutes)**
+Perfect for first-time users and quick evaluation.
 
-**Intermediate:**
-4. **[Cost Optimization](examples/cost_optimization_tool.py)** - Reduce AI expenses
-5. **[HuggingFace Integration](examples/huggingface_example.py)** - Model serving monitoring
-6. **[Drift Detection](examples/drift_detection_system.py)** - ML performance monitoring
+| Example | Time | Description | What You'll Learn |
+|---------|------|-------------|-------------------|
+| **[📝 Basic Usage](examples/basic_usage.py)** | 5 min | Simple telemetry integration | Core SDK concepts, event tracking |
+| **[🌐 FastAPI Integration](examples/fastapi_example.py)** | 15 min | Web API monitoring setup | HTTP middleware, request tracking |
+| **[📊 Interactive Demo](examples/end_to_end_demo.ipynb)** | 30 min | Jupyter notebook walkthrough | Complete SDK overview, hands-on |
 
-**Advanced:**
-7. **[Agent Instrumentation](examples/agent_instrumentation.py)** - AI agent tracking
-8. **[Compliance Framework](examples/compliance_framework_example.py)** - Enterprise governance
-9. **[End-to-End Demo Notebook](examples/end_to_end_demo.ipynb)** - Complete tutorial
+#### **🎯 Level 2: AI/ML Applications (30-60 minutes)**
+Build AI-specific monitoring for your applications.
 
-### **📊 Examples by Use Case**
+| Example | Time | Description | What You'll Learn |
+|---------|------|-------------|-------------------|
+| **[💬 Multi-Model Chat](examples/multi_model_chat.py)** | 20 min | LLM comparison and cost tracking | Model switching, cost optimization |
+| **[🤗 HuggingFace Integration](examples/huggingface_example.py)** | 25 min | Model serving monitoring | ML pipeline integration, performance metrics |
+| **[📈 Drift Detection](examples/drift_detection_system.py)** | 30 min | Monitor model quality | AI reliability, drift algorithms |
 
-| Use Case | Examples | Key Features |
-|----------|----------|--------------|
-| **Web Applications** | [FastAPI](examples/fastapi_example.py), [Flask](#), [Django](#) | Request tracking, error monitoring, performance metrics |
-| **Chat Applications** | [Multi-Model Chat](examples/multi_model_chat.py), [Agent Instrumentation](examples/agent_instrumentation.py) | LLM cost tracking, conversation analytics, user behavior |
-| **ML Pipelines** | [Drift Detection](examples/drift_detection_system.py), [HuggingFace](examples/huggingface_example.py) | Model monitoring, performance tracking, data quality |
-| **Enterprise AI** | [Compliance Framework](examples/compliance_framework_example.py), [Cost Optimization](examples/cost_optimization_tool.py) | Governance, cost control, audit trails |
+#### **🏢 Level 3: Enterprise & Advanced (60+ minutes)**
+Implement enterprise-grade monitoring and governance.
+
+| Example | Time | Description | What You'll Learn |
+|---------|------|-------------|-------------------|
+| **[💰 Cost Optimization](examples/cost_optimization_tool.py)** | 30 min | Reduce AI expenses | Budget management, provider comparison |
+| **[🤖 Agent Instrumentation](examples/agent_instrumentation.py)** | 45 min | AI agent workflow tracking | Complex workflows, multi-step processes |
+| **[🛡️ Compliance Framework](examples/compliance_framework_example.py)** | 60 min | Enterprise governance | Regulatory compliance, audit trails |
+
+#### **📈 Learning Progression**
+
+```
+📝 Basic Usage → 🌐 FastAPI → 💬 Chat Apps → 📈 Drift Detection → 🏢 Enterprise
+     ↓              ↓             ↓              ↓                ↓
+  Core SDK     Web Integration  AI Features   Quality Control  Governance
+   (5 min)        (15 min)      (20 min)       (30 min)       (60 min)
+```
+
+### **📋 Examples by Use Case**
+
+Choose examples based on your specific implementation needs:
+
+#### **🌐 Web Applications**
+| Framework | Example | Integration Time | Key Features |
+|-----------|---------|------------------|--------------|
+| **FastAPI** | [fastapi_example.py](examples/fastapi_example.py) | 15 min | Async middleware, request tracking |
+| **Flask** | [Integration Guide](INTEGRATION_GUIDE.md#flask-integration) | 10 min | Before/after hooks, error handling |
+| **Django** | [Integration Guide](INTEGRATION_GUIDE.md#django-integration) | 20 min | Middleware, user context |
+| **Streamlit** | [Integration Guide](INTEGRATION_GUIDE.md#streamlit-integration) | 15 min | Session state, interactive widgets |
+
+#### **🤖 AI/ML Applications**
+| Application Type | Examples | Focus Area |
+|------------------|----------|------------|
+| **Chat & LLMs** | [Multi-Model Chat](examples/multi_model_chat.py) | Cost tracking, model comparison |
+| **ML Pipelines** | [HuggingFace](examples/huggingface_example.py), [Drift Detection](examples/drift_detection_system.py) | Performance monitoring, quality control |
+| **AI Agents** | [Agent Instrumentation](examples/agent_instrumentation.py) | Workflow tracking, decision monitoring |
+| **Model Serving** | [HuggingFace Integration](examples/huggingface_example.py) | Inference monitoring, model performance |
+
+#### **🏢 Enterprise & Governance**
+| Need | Example | Compliance Standards |
+|------|---------|---------------------|
+| **Cost Control** | [Cost Optimization](examples/cost_optimization_tool.py) | Budget management, ROI tracking |
+| **Compliance** | [Compliance Framework](examples/compliance_framework_example.py) | GDPR, SOC2, FSB |
+| **Audit Trails** | Multiple examples | Complete activity logging |
+| **Quality Assurance** | [Drift Detection](examples/drift_detection_system.py) | Model reliability, SLA monitoring |
 
 ---
 
