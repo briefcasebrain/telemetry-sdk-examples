@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.egg-info/
+.Python
+build/
+dist/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv
+venv/
+env/
+ENV/
+
+# IDE / editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Claude / AI tooling
+.claude/
+.cursor/
+.aider*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Walkthrough artifacts written at runtime
+examples/**/*.bundle.json
+examples/**/out/
